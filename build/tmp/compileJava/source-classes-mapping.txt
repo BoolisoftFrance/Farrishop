@@ -1,0 +1,12 @@
+com/boolisoft/DrawerManager.java
+ com.boolisoft.DrawerManager
+com/boolisoft/views/PrimaryPresenter.java
+ com.boolisoft.views.PrimaryPresenter
+com/boolisoft/Main.java
+ com.boolisoft.Main
+com/boolisoft/views/SecondaryView.java
+ com.boolisoft.views.SecondaryView
+com/boolisoft/views/SecondaryPresenter.java
+ com.boolisoft.views.SecondaryPresenter
+com/boolisoft/views/PrimaryView.java
+ com.boolisoft.views.PrimaryView
